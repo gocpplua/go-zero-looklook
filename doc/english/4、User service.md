@@ -77,7 +77,7 @@ type (
 $ goctl api go -api *.api -dir ../  -style=goZero
 ```
 
-4. Open the app/usercenter/cmd/api/internal/logic/user/register.go file
+4. Open the app/usercenter/cmd/api/internal/logic/user/registerLogic.go file
 
 ![image-20220118123507065](../chinese/images/4/image-20220118123507065.png)
 
